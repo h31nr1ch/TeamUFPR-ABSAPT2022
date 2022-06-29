@@ -4,7 +4,7 @@ TeamUFPR at ABSAPT 2022. Complete set of results and source code.
 
 ## Table of Contents ##
 - [Running the code](#Running-the-code)
-- [IberLEF-2021](#IberLEF-2022)
+- [IberLEF-2022](#IberLEF-2022)
 - [Contributors](#Contributors)
 
 ## Running the code ##
@@ -12,7 +12,9 @@ TeamUFPR at ABSAPT 2022. Complete set of results and source code.
 To run the code, use the following command:
 
 ```
-python3 main.py 
+python3 bert.py 
+
+python3 crf.py
 ```
 
 ## IberLEF-2022 ##
