@@ -4,8 +4,8 @@ TeamUFPR at ABSAPT 2022. Complete set of results and source code.
 
 ## Table of Contents ##
 - [Running the code](#Running-the-code)
+- [IberLEF-2021](#IberLEF-2022)
 - [Contributors](#Contributors)
-- [IberLEF-2021](#IberLEF-2021)
 
 ## Running the code ##
 
